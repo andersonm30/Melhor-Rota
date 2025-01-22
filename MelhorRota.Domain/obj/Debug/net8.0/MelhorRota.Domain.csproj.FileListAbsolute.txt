@@ -1,0 +1,11 @@
+C:\Users\andee\source\repos\MelhorRota.App\MelhorRota.Domain\bin\Debug\net8.0\MelhorRota.Domain.deps.json
+C:\Users\andee\source\repos\MelhorRota.App\MelhorRota.Domain\bin\Debug\net8.0\MelhorRota.Domain.dll
+C:\Users\andee\source\repos\MelhorRota.App\MelhorRota.Domain\bin\Debug\net8.0\MelhorRota.Domain.pdb
+C:\Users\andee\source\repos\MelhorRota.App\MelhorRota.Domain\obj\Debug\net8.0\MelhorRota.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andee\source\repos\MelhorRota.App\MelhorRota.Domain\obj\Debug\net8.0\MelhorRota.Domain.AssemblyInfoInputs.cache
+C:\Users\andee\source\repos\MelhorRota.App\MelhorRota.Domain\obj\Debug\net8.0\MelhorRota.Domain.AssemblyInfo.cs
+C:\Users\andee\source\repos\MelhorRota.App\MelhorRota.Domain\obj\Debug\net8.0\MelhorRota.Domain.csproj.CoreCompileInputs.cache
+C:\Users\andee\source\repos\MelhorRota.App\MelhorRota.Domain\obj\Debug\net8.0\MelhorRota.Domain.dll
+C:\Users\andee\source\repos\MelhorRota.App\MelhorRota.Domain\obj\Debug\net8.0\refint\MelhorRota.Domain.dll
+C:\Users\andee\source\repos\MelhorRota.App\MelhorRota.Domain\obj\Debug\net8.0\MelhorRota.Domain.pdb
+C:\Users\andee\source\repos\MelhorRota.App\MelhorRota.Domain\obj\Debug\net8.0\ref\MelhorRota.Domain.dll
